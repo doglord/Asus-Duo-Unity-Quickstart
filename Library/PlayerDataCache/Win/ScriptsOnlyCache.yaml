@@ -46,23 +46,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11248}
+      Script: {instanceID: 11244}
     - Class: 114
-      Script: {instanceID: 11408}
+      Script: {instanceID: 11404}
     - Class: 114
-      Script: {instanceID: 11448}
+      Script: {instanceID: 11444}
     - Class: 114
-      Script: {instanceID: 11830}
+      Script: {instanceID: 11496}
     - Class: 114
-      Script: {instanceID: 12214}
+      Script: {instanceID: 11828}
+    - Class: 114
+      Script: {instanceID: 12212}
+    - Class: 114
+      Script: {instanceID: 12402}
     - Class: 114
       Script: {instanceID: 12692}
     - Class: 114
       Script: {instanceID: 13040}
-    - Class: 114
-      Script: {instanceID: 16368}
-    - Class: 114
-      Script: {instanceID: 16374}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -170,6 +170,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 164409d9ea6edcb35e37f8105e33cb25
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ASUSMultiDisplayActivation
   - hash:
       serializedVersion: 2
       Hash: 7ab0e790220bdca831fdd886b339039d
@@ -326,6 +332,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 6df70ea5d2e8f0ea4eb5bc7244e56744
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TestButton
   - hash:
       serializedVersion: 2
       Hash: c9a8b80298a116835b51ba1cf9284367
@@ -500,18 +512,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 164409d9ea6edcb35e37f8105e33cb25
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ASUSMultiDisplayActivation
-  - hash:
-      serializedVersion: 2
-      Hash: 6df70ea5d2e8f0ea4eb5bc7244e56744
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TestButton
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
